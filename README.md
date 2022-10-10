@@ -9,7 +9,7 @@
 
 ## My resume
 
-[Click here to ask permissions to get my CV](https://docs.google.com/document/d/1ZYdulT5wrHSUMONDa1BX-t8mCRnhra6z/edit?usp=sharing&ouid=105431275010119014532&rtpof=true&sd=true)
+[Click here to view my CV](https://docs.google.com/document/d/1ZYdulT5wrHSUMONDa1BX-t8mCRnhra6z/edit?usp=sharing&ouid=105431275010119014532&rtpof=true&sd=true)
 
 ## Testing tools and Languages
 
